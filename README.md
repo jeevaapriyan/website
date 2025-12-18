@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-# Date:
+# Date:17/12/25
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
@@ -26,6 +26,150 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM:
+admin.html
+<head>
+  <meta charset="UTF-8" />
+  <title>Our Team</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="admin-page">
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="menu.html">Menu</a></li>
+      <li><a href="admin.html">Team</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  <section class="team-section">
+  <h2 style="text-align: center; color: white;">Meet Our Team</h2>
+  <div class="team-grid">
+    <div class="team-member">
+      <img src="profile.jpeg" alt="jeeva">
+      <h3>jeeva- Restaurant Manager</h3>
+    </div>
+    <div class="team-member">
+      <h3>Chef Mario - Head Chef</h3>
+    </div>
+    <div class="team-member">
+      <h3>Lisa - Sous Chef</h3>
+    </div>
+    
+    <div class="team-member">
+      <h3>Emma - Lead Server</h3>
+    </div>
+    <div class="team-member">
+      <h3>Alex - Barista</h3>
+    </div>
+    <div class="team-member">
+      <h3>Sophia - Receptionist</h3>
+    </div>
+  </div>
+</section>
+
+</body>
+index.html
+<head>
+  <meta charset="UTF-8" />
+  <title>NAMMA VEEDU - Home</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="home" >
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="menu.html">Menu</a></li>
+      <li><a href="admin.html">Team</a></li>
+      
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  <header class="hero">
+    <h1>Welcome to NAMMA VEEDU</h1>
+    <p><b>Delicious moments delivered fresh to your plate</b></p>
+  </header>
+</body>
+menu.html
+<head>
+  <meta charset="UTF-8" />
+  <title>Menu - NAMMA VEEDU</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="menu-page">
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="menu.html">Menu</a></li>
+      <li><a href="admin.html">Team</a></li>
+      
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+  <h1 class="page-title">Our Specialties</h1>
+  <div class="menu-grid">
+    <div class="menu-item"><img src="pizza.jpg" alt="Pizza"><p>Cheesy Pepperoni Pizza</p></div>
+    <div class="menu-item"><img src="burger.jpg" alt="Burger"><p>Classic Beef Burger</p></div>
+
+    
+
+    <div class="menu-item"><img src="cake.jpg" alt="Cake"><p>Chocolate Lava Cake</p></div>
+    <div class="menu-item"><img src="icecream.jpg" alt="Ice Cream"><p>Vanilla Ice Cream</p></div>
+    
+    <div class="menu-item"><img src="noodels.jpg" alt="Noodles"><p>Spicy Asian Noodles</p></div>
+  </div>
+</body>
+contact.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact Us</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body class="contact-page">
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="menu.html">Menu</a></li>
+      <li><a href="admin.html">Team</a></li>
+      
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <div class="contact-container">
+    <div class="contact-info">
+      <h1>Get in Touch</h1>
+      <p><i class="fas fa-map-marker-alt"></i> 123 Flavor Street, Food City, FC 45678</p>
+      <p><i class="fas fa-phone-alt"></i> +1 (234) 567-8901</p>
+      <p><i class="fas fa-envelope"></i> info@restaurant.com</p>
+    </div>
+
+    <div class="contact-form">
+      <h2>Send Us a Message</h2>
+      <form>
+        <input type="text" placeholder="Your Name" required />
+        <input type="email" placeholder="Your Email" required />
+        <textarea rows="5" placeholder="Your Message"></textarea>
+        <button type="submit">Send Message</button>
+      </form>
+    </div>
+  </div>
+</body>
+</html>
+
+
 # OUTPUT:
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/bdae8099-fbd3-4147-9873-8172751c3cb1" />
+
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/072299d6-94e1-4991-ba55-138b74076e9c" />
+
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/74370838-a23c-4f75-8a6e-6f1ac0b7721c" />
+
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/bfd99406-a10e-46b0-bf4a-33271b348ab6" />
+
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
