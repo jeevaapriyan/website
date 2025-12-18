@@ -27,6 +27,7 @@ Publish the website in the given URL.
 
 # PROGRAM:
 admin.html
+```
 <head>
   <meta charset="UTF-8" />
   <title>Our Team</title>
@@ -68,7 +69,10 @@ admin.html
 </section>
 
 </body>
+```
+
 index.html
+```
 <head>
   <meta charset="UTF-8" />
   <title>NAMMA VEEDU - Home</title>
@@ -89,7 +93,9 @@ index.html
     <p><b>Delicious moments delivered fresh to your plate</b></p>
   </header>
 </body>
+```
 menu.html
+```
 <head>
   <meta charset="UTF-8" />
   <title>Menu - NAMMA VEEDU</title>
@@ -118,8 +124,9 @@ menu.html
     <div class="menu-item"><img src="noodels.jpg" alt="Noodles"><p>Spicy Asian Noodles</p></div>
   </div>
 </body>
+```
 contact.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -160,16 +167,13 @@ contact.html
   </div>
 </body>
 </html>
-
-
+```
 # OUTPUT:
-<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/bdae8099-fbd3-4147-9873-8172751c3cb1" />
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/c8b4a10a-4521-4df9-84ea-b1b4e3d5e39f" />
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/13b0e0ec-3e8e-452b-a25f-de8e9cb4802e" />
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/d93aa21f-70c1-49b4-ab6f-475d4dcd11a4" />
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/dbe7f1ea-1b96-4208-b139-8c2935e001c5" />
 
-<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/072299d6-94e1-4991-ba55-138b74076e9c" />
-
-<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/74370838-a23c-4f75-8a6e-6f1ac0b7721c" />
-
-<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/bfd99406-a10e-46b0-bf4a-33271b348ab6" />
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
