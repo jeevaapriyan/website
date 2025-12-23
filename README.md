@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-# Date:17/12/25
+# Date:
 # AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
@@ -27,7 +27,6 @@ Publish the website in the given URL.
 
 # PROGRAM:
 
-```
 # OUTPUT:
 
 
